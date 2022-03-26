@@ -1,3 +1,1 @@
-<img
-  src="https://img.shields.io/badge/[HTML5]-[RED]?style=flat-square&logo=[HTML]&logoColor=RED"
-/>
+<img src="https://img.shields.io/badge/JAVA-BLUE?style=for-the-badge&logo=JAVALOGO&logoColor=white">
